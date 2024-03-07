@@ -1,0 +1,141 @@
+#image1{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+#girl{
+    width: 80%;
+}
+
+#box{
+    width: 90%;
+}
+
+#service{
+    text-align: center;
+}
+
+#icons{
+   display: grid;
+   grid-template-columns: 50% 50%;
+    
+}
+
+#couch{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+#head{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+#men{
+    width: 40%;
+}
+
+#testimony{
+    text-align: center;
+}
+
+#quote{
+   display: flex;
+   gap: 20%;
+}
+
+#lady{
+  display: flex;
+   gap: 20%;
+}
+
+#news{
+    text-align: center;
+}
+
+#form{
+}
+
+#blogs{
+    text-align: center;
+}
+
+#box{
+    display: flex;
+    gap: 9%;
+}
+
+#plate{
+    height: 85%;
+}
+
+#ted{
+    height: 85%;
+}
+
+#paragraph{
+    text-align: center;
+    background-color: orangered;
+}
+
+.footer{
+    display: flex;
+    text-align: center;
+    gap: 10%;
+    background-color: grey;
+}
+
+#f1{
+    list-style: none;
+}
+
+#f2{
+    list-style: none;
+}
+
+#f3{
+    list-style: none;
+}
+
+#copy{
+    text-align: center;
+}
+
+#track{
+    position: relative;
+    grid-template-columns: 30% 30%
+}
+
+#block{
+color: bisque;
+}
+#serve{
+    color: orangered;
+}
+#phone{
+  margin-left: 70%;
+}
+
+.topnav{
+ margin-left: 1%;
+ 
+}
+
+#header{
+    text-align: center;
+    background-color: black;
+  visibility: inherit;
+}
+
+#pic1{
+   width: 90%;
+}
+
+#form{
+    max-width: fit-content;
+}
+
+@media only screen and (max-width: 600px) {
+    body{
+     }
+}
+
